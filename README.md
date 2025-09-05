@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I’m Sina 👋  
 
-<!--
-**Sina-Paradox/Sina-Paradox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical projects while learning in public.  
 
-Here are some ideas to get you started:
+**Currently building:** Portfolio site, Weather App, Blog CMS, E-commerce, Chat App, and a Capstone.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack**  
+- HTML/CSS • JavaScript/React  
+- Python • Node.js • SQL  
+- Git & GitHub  
+
+**Links**  
+- LinkedIn: https://www.linkedin.com/in/sina-khalili-paradox  
+- Portfolio: (coming soon)  
+- Email: sinakhalili10000@gmail.com
